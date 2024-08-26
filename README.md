@@ -1,6 +1,6 @@
 # 안녕하세요, 박지선입니다😊
 
-- Full-Stack Engeneer (가 될 예정🙄)
+- Full-Stack Engineer (가 될 예정🙄)
 - MBTI : ISTP
 - 좋아하는 것 : 맛있는 음식, 귀여운 모든 것
 
